@@ -1,0 +1,2 @@
+# Tableau-Covid-Data-Analysis
+A Data Analysis project on the spread of the Novel Coronavirus in India. This project is an attempt of analysing the coronavirus (Covid – 19) spread in the world using data science concepts and analytics with the help of tableau  . This analysis will help us find the basis behind common notions about the virus spread purely from a data perspective.link -https://public.tableau.com/app/profile/afzal.hasan6752/viz/COVIDDATAANALYSIS_16584888491230/Dashboard12
